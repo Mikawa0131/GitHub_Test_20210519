@@ -18,7 +18,7 @@ public class NewBehaviourScript : MonoBehaviour
 
         if(i < 0)
         {
-            i = 100;
+            i = 100;    // yeah
         }
     }
 }
